@@ -1,3 +1,8 @@
+---
+title: Future Development Roadmap
+nav_order: 7
+---
+
 # Future Development Roadmap
 
 This section outlines planned enhancements and long‑term goals.
