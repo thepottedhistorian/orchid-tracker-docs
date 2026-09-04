@@ -31,3 +31,4 @@ Bloom logs, watering logs, repotting logs, observation notes.
 
 JSON photo arrays, carousel layout, lightbox behavior, scaling rules.
 
+
