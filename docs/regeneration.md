@@ -1,3 +1,8 @@
+---
+title: Regeneration Prompts
+nav_order: 5
+---
+
 # Regeneration Prompts
 
 This section contains the canonical prompts used to regenerate the entire Orchid Tracker application.
