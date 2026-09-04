@@ -1,3 +1,8 @@
+---
+title: Database Schema
+nav_order: 4
+---
+
 # Database Schema Specification
 
 This section defines the complete relational database schema used by the Orchid Tracker.
