@@ -1,3 +1,8 @@
+---
+title: Module‑by‑Module Breakdown
+nav_order: 3
+---
+
 # Module‑by‑Module Breakdown
 
 This section provides a detailed breakdown of every module in the Orchid Tracker application.
