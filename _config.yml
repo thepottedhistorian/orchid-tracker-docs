@@ -17,3 +17,23 @@ just_the_docs:
 
 # Optional: GitHub link in the header
 url: https://thepottedhistorian.github.io/orchid-tracker-docs/
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+      nav_order: 1
+  aux_links:
+    "Orchid Tracker Docs":
+      - https://thepottedhistorian.github.io/orchid-tracker-docs/
+
+# Custom CSS
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-sitemap
+
+# Include custom CSS
+include:
+  - assets/css/custom.css
