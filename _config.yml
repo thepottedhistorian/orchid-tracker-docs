@@ -8,16 +8,7 @@ source: docs
 # Enable search
 search_enabled: true
 
-# Navigation structure
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-      nav_order: 1
-
-# Optional: GitHub link in the header
-url: https://thepottedhistorian.github.io/orchid-tracker-docs/
-
+# Navigation + sidebar + header links
 just_the_docs:
   collections:
     docs:
@@ -38,7 +29,5 @@ plugins:
 include:
   - assets/css/custom.css
 
-```yaml
+# Footer
 footer_content: "© 2026 Orchid Tracker<br>Botanical Archivist Project<br>Documentation maintained by The Potted Historian"
-
-  
