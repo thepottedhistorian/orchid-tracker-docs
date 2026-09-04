@@ -1,4 +1,10 @@
+---
+title: Architecture
+nav_order: 2
+---
+
 # Architecture Overview
+
 
 This section defines the complete architectural structure of the Orchid Tracker application, including system layers, data flow, UI flow, module interactions, and schema auto‑healing logic.
 
