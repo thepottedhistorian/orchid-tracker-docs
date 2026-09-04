@@ -1,3 +1,8 @@
+---
+title: System Overview
+nav_order: 1
+---
+
 # System Overview
 
 The Botanical Archivist (Orchid Tracker) is a desktop application designed to maintain structured, archival‑grade records of orchid specimens. It provides growers, archivists, and developers with a unified interface for inventory management, care logging, bloom tracking, photo documentation, and long‑term archival.
