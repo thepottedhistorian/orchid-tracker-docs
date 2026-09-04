@@ -39,5 +39,6 @@ include:
   - assets/css/custom.css
 
 ```yaml
-footer_content: "© 2026 Orchid Tracker — Botanical Archivist Project"
+footer_content: "© 2026 Orchid Tracker<br>Botanical Archivist Project<br>Documentation maintained by The Potted Historian"
+
   
