@@ -1,3 +1,8 @@
+---
+title:  Help System Documentation
+nav_order: 6
+---
+
 # Help System Documentation
 
 This section contains the help topics displayed inside the Orchid Tracker application.
