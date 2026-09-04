@@ -1,3 +1,8 @@
+---
+title: Version History & Release Notes
+nav_order: 8
+---
+
 # Version History & Release Notes
 
 A chronological record of all Orchid Tracker releases.
