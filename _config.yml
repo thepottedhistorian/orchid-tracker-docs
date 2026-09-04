@@ -1,0 +1,19 @@
+title: Orchid Tracker Documentation
+description: Official documentation hub for the Botanical Archivist (Orchid Tracker)
+theme: just-the-docs
+
+# Where your docs live
+source: docs
+
+# Enable search
+search_enabled: true
+
+# Navigation structure
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+      nav_order: 1
+
+# Optional: GitHub link in the header
+url: https://thepottedhistorian.github.io/orchid-tracker-docs/
