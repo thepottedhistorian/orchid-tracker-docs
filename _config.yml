@@ -37,3 +37,7 @@ plugins:
 # Include custom CSS
 include:
   - assets/css/custom.css
+
+```yaml
+footer_content: "© 2026 Orchid Tracker — Botanical Archivist Project"
+  
